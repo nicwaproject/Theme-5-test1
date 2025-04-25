@@ -110,7 +110,6 @@ body {
     font-family: "Old Standard TT", serif;
     font-weight: 400;
     font-style: normal;
-    overflow: hidden;
 }
 
 h1, h2 {
@@ -134,8 +133,8 @@ p {
     justify-content: center;
     align-items: center;
     width: 100%;
-    max-width: 350px;
-    height: 70vh;
+    max-width: 320px;
+    height: 75vh;
     background-color: transparent; /* Adjust to match your design */
     border-radius: 150px;
     border: 2px solid var(--secondary-color); /* Add border with 5px width and your desired color */
